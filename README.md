@@ -22,4 +22,4 @@
 
 |Problem|Solution|Category|Language|
 |------|---|---|---|
-|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746?language=swift)|[가장 큰 수](./프로그래머스/가장_큰_수.swift)|Sorting|Swift|
+|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746?language=swift)|[가장 큰 수](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8F%E1%85%B3%E1%86%AB_%E1%84%89%E1%85%AE.swift)|Sorting|Swift|
