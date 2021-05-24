@@ -16,10 +16,11 @@
 
 |Problem|Solution|Category|Language|
 |------|---|---|---|
-|[Maximum Subarray](https://leetcode.com/explore/featured/card/top-interview-questions-easy/97/dynamic-programming/566/)|[Maximum Subarray](./LeetCode/Maximum_Subarray.swift)|Dynamic Programming|Swift|
+|[Maximum Subarray](https://leetcode.com/explore/featured/card/top-interview-questions-easy/97/dynamic-programming/566/)|[Maximum Subarray](./LeetCode/Maximum_Subarray.swift)|`Dynamic Programming`|Swift|
+
 
 ### 2.2 프로그래머스
 
 |Problem|Solution|Category|Language|
 |------|---|---|---|
-|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746?language=swift)|[가장 큰 수](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8F%E1%85%B3%E1%86%AB_%E1%84%89%E1%85%AE.swift)|Sorting|Swift|
+|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746?language=swift)|[가장 큰 수](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8F%E1%85%B3%E1%86%AB_%E1%84%89%E1%85%AE.swift)|`Sorting`|Swift|
