@@ -37,3 +37,9 @@
 |[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677?language=swift)|[뉴스 클러스터링](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EB%89%B4%EC%8A%A4_%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.swift)|`Implement`|Swift|
 |[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058?language=swift)|[괄호 변환](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EA%B4%84%ED%98%B8_%EB%B3%80%ED%99%98.swift)|`Implement`|Swift|
 |[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681?language=swift)|[비밀지도](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.swift)|`Implement`|Swift|
+|[다트](https://programmers.co.kr/learn/courses/30/lessons/17682?language=swift)|[다트](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EB%8B%A4%ED%8A%B8.swift)|`Implement`|Swift|
+|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=swift)|[실패율](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%8B%A4%ED%8C%A8%EC%9C%A8.swift)|`Implement`|Swift|
+|[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189?language=swift)|[가장 먼 노드](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.swift)|`BFS`|Swift|
+
+
+
