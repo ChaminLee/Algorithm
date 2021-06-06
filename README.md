@@ -21,7 +21,7 @@
 |Problem|Solution|Category|Language|
 |------|---|---|---|
 |[Maximum Subarray](https://leetcode.com/explore/featured/card/top-interview-questions-easy/97/dynamic-programming/566/)|[Maximum Subarray](./LeetCode/Maximum_Subarray.swift)|`Dynamic Programming`|Swift|
-
+|[Valid Anagram]|[Valid Anagram](LeetCode/String/Valid_Anagram.swift)|`String`|Swift|
 
 ### 2.2 프로그래머스
 
