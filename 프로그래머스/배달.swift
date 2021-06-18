@@ -35,9 +35,9 @@ func solution(_ N:Int, _ road:[[Int]], _ k:Int) -> Int {
         // k는 거쳐가는 지점
         for k in 0..<N {
             // i는 출발
-            for j in 0..<N {
+            for i in 0..<N {
                 // j는 도착
-                for k in 0..<N {
+                for j in 0..<N {
                     dist[i][j] = min(dist[i][k] + dist[k][j], dist[i][j])
                 }
             }
