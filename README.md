@@ -25,6 +25,7 @@
 |[Valid Palindrome](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/883/)|[Valid Palindrom](LeetCode/String/Valid_Palindrome)|`String`|Swift|
 |[Reverse String](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/879/)|[Reverse String](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/String/Reverse_String.swift)|`String`|Swift|
 |[Reverse Integer](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/880/)|[Reverse Integer](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/String/Reverse_Integer.swift)|`String`|Swift|
+|[First Unique Character in a String](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/881/)|[First Unique Character in a String](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/String/First_Unique_Character_in_a_String.swift)|`String`|Swift|
 
 
 ### 2.2 프로그래머스
