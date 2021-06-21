@@ -20,7 +20,11 @@
 
 |Problem|Solution|Category|Language|
 |------|---|---|---|
-|[Maximum Subarray](https://leetcode.com/explore/featured/card/top-interview-questions-easy/97/dynamic-programming/566/)|[Maximum Subarray](./LeetCode/Maximum_Subarray.swift)|`Dynamic Programming`|Swift|
+|[Maximum Subarray](https://leetcode.com/explore/featured/card/top-interview-questions-easy/97/dynamic-programming/566/)|[Maximum Subarray](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Dynamic_Programming/Maximum_Subarray.swift)|`Dynamic Programming`|Swift|
+|[In Subsequence](https://leetcode.com/problems/is-subsequence/)|[In Subsequence](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Dynamic_Programming/In_Subsequence.swift)|`Dynamic Programming`|Swift|
+|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Best Time to Buy and Sell Stock](https://github.com/ChaminLee/Algorithm/tree/main/LeetCode/Dynamic_Programming)|`Dynamic Programming`|Swift|
+|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Min Cost Climbing Stairs](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Dynamic_Programming/Min_Cost_Climbing_Stairs.swift)|`Dynamic Programming`|Swift|
+|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Counting Bits](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Dynamic_Programming/Counting_Bits.swift)|`Dynamic Programming`|Swift|
 |[Valid Anagram](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/882/)|[Valid Anagram](LeetCode/String/Valid_Anagram.swift)|`String`|Swift|
 |[Valid Palindrome](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/883/)|[Valid Palindrom](LeetCode/String/Valid_Palindrome)|`String`|Swift|
 |[Reverse String](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/879/)|[Reverse String](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/String/Reverse_String.swift)|`String`|Swift|
