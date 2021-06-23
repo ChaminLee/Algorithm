@@ -26,8 +26,8 @@ class Solution {
                 let next = nextVisit.removeLast()
                 // 인접 (up,down,left,right) 원소들 나열
                 for adj in findAdj(next,m,n) {
-                    // 그 값이 target과 같고 방문 예정인 배열에 없을 때
-                    if result[adj[0]][adj[1]] == target && !nextVisit.contains(adj) {
+                    // 그 값이 target과 같을 때
+                    if result[adj[0]][adj[1]] == target {
                         // 값을 변경해주고
                         result[adj[0]][adj[1]] = newColor
                         // 다음에 방문할 배열에 넣어준다. 
