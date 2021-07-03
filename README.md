@@ -37,6 +37,8 @@
 |[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Find Center of Star Graph](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Graph/Find%20Center%20of%20Star%20Graph.swift)|`Graph`|Swift|
 |[Flood Fill](https://leetcode.com/problems/flood-fill/submissions/)|[Flood Fill](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/DFS/Flood_Fill.swift)|`DFS`|Swift|
 |[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[All Paths From Source to Target](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/DFS/All%20Paths%20From%20Source%20to%20Target.swift)|`DFS` `Backtracking`|Swift|
+|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Number of Good Pairs](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Number%20of%20Good%20Pairs.swift)|`Hash Table`|Swift|
+
 
 
 
