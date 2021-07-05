@@ -38,7 +38,7 @@
 |[Flood Fill](https://leetcode.com/problems/flood-fill/submissions/)|[Flood Fill](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/DFS/Flood_Fill.swift)|`DFS`|Swift|
 |[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[All Paths From Source to Target](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/DFS/All%20Paths%20From%20Source%20to%20Target.swift)|`DFS` `Backtracking`|Swift|
 |[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Number of Good Pairs](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Number%20of%20Good%20Pairs.swift)|`Hash Table`|Swift|
-
+|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Count Negative Numbers in a Sorted Matrix](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Binary_Search/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.swift)|`Binary Seaerch`|Swift|
 
 
 
