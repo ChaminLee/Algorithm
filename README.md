@@ -52,6 +52,7 @@
 |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/)|[Best Time to Buy and Sell Stock II](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.swift)|`Array`|Swift|
 |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Find All Numbers Disappeared in an Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.swift)|`Array`|Swift|
 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Container With Most Water](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Greedy/Container%20With%20Most%20Water.swift)| `Two-Pointers` `Greedy`|Swift|
+|[3sum](https://leetcode.com/problems/3sum/)|[3sum](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Two%20Pointers/3Sum.swift)| `Two-Pointers`|Swift|
 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Palindrome Number](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Math/Palindrome%20Number.swift)|`Math`|Swift|
 
 
