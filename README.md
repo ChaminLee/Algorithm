@@ -54,6 +54,8 @@
 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Container With Most Water](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Greedy/Container%20With%20Most%20Water.swift)| `Two-Pointers` `Greedy`|Swift|
 |[3sum](https://leetcode.com/problems/3sum/)|[3sum](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Two%20Pointers/3Sum.swift)| `Two-Pointers`|Swift|
 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Palindrome Number](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Math/Palindrome%20Number.swift)|`Math`|Swift|
+|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Excel Sheet Column Number](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Math/Excel%20Sheet%20Column%20Number.swift)|`Math`|Swift|
+
 
 
 
