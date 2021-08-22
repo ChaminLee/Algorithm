@@ -43,7 +43,8 @@ class Solution {
             return 
         }
         
-        // ((의 경우는 완성될 가능성이 있기에 그대로 패스
+        // ((의 경우는 완성될 가능성이 없기에 그대로 패스
+        // close가 더 작다는 것은 )를 더 많이 사용했다는 뜻 
         if open > close {
             return 
         }
