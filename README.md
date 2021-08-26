@@ -29,6 +29,7 @@
 |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Find All Numbers Disappeared in an Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.swift)|`Array`|Swift|
 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Merge Intervals](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Merge%20Intervals.swift)|`Array`|Swift|
 |[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Rotate Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Rotate%20Array.swift)|`Array`|Swift|
+|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Move Zeroes](https://github.com/ChaminLee/Algorithm/tree/main/LeetCode/Array)|`Array`|Swift|
 
 <br>
 
@@ -140,6 +141,8 @@
 |------|---|---|---|
 |[3sum](https://leetcode.com/problems/3sum/)|[3sum](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Two%20Pointers/3Sum.swift)| `Two-Pointers`|Swift|
 |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Squares of a Sorted Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Two%20Pointers/Squares%20of%20a%20Sorted%20Array.swift)| `Two-Pointers`|Swift|
+|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Two Sum II - Input array is sorted](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Two%20Pointers/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.swift)| `Two-Pointers`|Swift|
+
 
 
 
