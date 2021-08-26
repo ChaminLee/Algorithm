@@ -15,9 +15,36 @@
 
 ----
 
-## 2. Github Code 👨🏻‍💻
+# 2. Github Code 👨🏻‍💻
 
-### 2.1 LeetCode
+## LeetCode <a href="https://leetcode.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white"/></a>
+
+#### `Array`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Spiral Matrix](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Spiral%20Matrix.swift)|`Array`|Swift|
+|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/)|[Best Time to Buy and Sell Stock II](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.swift)|`Array`|Swift|
+|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Find All Numbers Disappeared in an Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.swift)|`Array`|Swift|
+|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Merge Intervals](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Merge%20Intervals.swift)|`Array`|Swift|
+|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Rotate Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Rotate%20Array.swift)|`Array`|Swift|
+
+<br>
+
+#### `Binary Search`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Count Negative Numbers in a Sorted Matrix](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Binary_Search/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.swift)|`Binary Search`|Swift|
+|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Search Insert Position](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Binary_Search/Search%20Insert%20Position.swift)|`Binary Search`|Swift|
+|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Search in Rotated Sorted Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Binary_Search/Search%20in%20Rotated%20Sorted%20Array.swift)|`Binary Search`|Swift|
+|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Find First and Last Position of Element in Sorted Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Binary_Search/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.swift)|`Binary Search`|Swift|
+
+<br>
+
+#### `Dynamic Programming`
 
 |Problem|Solution|Category|Language|
 |------|---|---|---|
@@ -27,6 +54,74 @@
 |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Min Cost Climbing Stairs](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Dynamic_Programming/Min_Cost_Climbing_Stairs.swift)|`Dynamic Programming`|Swift|
 |[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Counting Bits](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Dynamic_Programming/Counting_Bits.swift)|`Dynamic Programming`|Swift|
 |[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Count Square Submatrices with All Ones](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Dynamic_Programming/Count_Square_Submatrices_with_All_Ones.swift)|`Dynamic Programming`|Swift|
+
+<br>
+
+
+#### `DFS` `BFS` `BackTracking`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[Flood Fill](https://leetcode.com/problems/flood-fill/submissions/)|[Flood Fill](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/DFS/Flood_Fill.swift)|`DFS`|Swift|
+|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[All Paths From Source to Target](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/DFS/All%20Paths%20From%20Source%20to%20Target.swift)|`DFS` `Backtracking`|Swift|
+|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Letter Combinations of a Phone Number](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Letter%20Combinations%20of%20a%20Phone%20Number.swift)|`DFS` `Backtracking`|Swift|
+|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Combination Sum](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Combination%20Sum.swift)|`DFS` `Backtracking`|Swift|
+|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Combination Sum II](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Combination%20Sum%20II.swift)|`DFS` `Backtracking`|Swift|
+|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Generate Parentheses](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Generate%20Parentheses.swift)|`DFS` `Backtracking`|Swift|
+|[Permutations](https://leetcode.com/problems/permutations/)|[Permutations](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Permutations.swift)|`Backtracking`|Swift|
+
+<br>
+
+
+#### `Graph`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Find the Town Judge](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Graph/Find_the_Town_Judge.swift)|`Graph`|Swift|
+|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Minimum Number of Vertices to Reach All Nodes](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Graph/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.swift)|`Graph`|Swift|
+|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Find Center of Star Graph](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Graph/Find%20Center%20of%20Star%20Graph.swift)|`Graph`|Swift|
+
+<br>
+
+#### `Greedy`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[Jump Game](https://leetcode.com/problems/jump-game/)|[Jump Game](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Greedy/Jump%20Game.swift)|`Greedy`|Swift|
+|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Container With Most Water](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Greedy/Container%20With%20Most%20Water.swift)| `Two-Pointers` `Greedy`|Swift|
+
+<br>
+
+
+#### `HashTable`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Number of Good Pairs](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Number%20of%20Good%20Pairs.swift)|`Hash Table`|Swift|
+|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Roman to Integer](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Roman%20to%20Integer.swift)|`Hash Table`|Swift|
+|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Group Anagrams](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Group%20Anagrams.swift)|`Hash Table`|Swift|
+
+<br>
+
+#### `Math`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Palindrome Number](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Math/Palindrome%20Number.swift)|`Math`|Swift|
+|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Excel Sheet Column Number](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Math/Excel%20Sheet%20Column%20Number.swift)|`Math`|Swift|
+
+<br>
+
+#### `String`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[Valid Anagram](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/882/)|[Valid Anagram](LeetCode/String/Valid_Anagram.swift)|`String`|Swift|
 |[Valid Palindrome](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/883/)|[Valid Palindrom](LeetCode/String/Valid_Palindrome.swift)|`String`|Swift|
 |[Reverse String](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/879/)|[Reverse String](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/String/Reverse_String.swift)|`String`|Swift|
@@ -35,70 +130,151 @@
 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Longest Substring Without Repeating Characters](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/String/Longest%20Substring%20Without%20Repeating%20Characters.swift)|`String`|Swift|
 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Valid Parentheses](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/String/Valid%20Parentheses.swift)|`String`|Swift|
 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Length of Last Word](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/String/Length%20of%20Last%20Word.swift)|`String`|Swift|
-|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Find the Town Judge](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Graph/Find_the_Town_Judge.swift)|`Graph`|Swift|
-|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Minimum Number of Vertices to Reach All Nodes](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Graph/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.swift)|`Graph`|Swift|
-|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Find Center of Star Graph](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Graph/Find%20Center%20of%20Star%20Graph.swift)|`Graph`|Swift|
-|[Flood Fill](https://leetcode.com/problems/flood-fill/submissions/)|[Flood Fill](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/DFS/Flood_Fill.swift)|`DFS`|Swift|
-|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[All Paths From Source to Target](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/DFS/All%20Paths%20From%20Source%20to%20Target.swift)|`DFS` `Backtracking`|Swift|
-|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Letter Combinations of a Phone Number](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Letter%20Combinations%20of%20a%20Phone%20Number.swift)|`DFS` `Backtracking`|Swift|
-|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Combination Sum](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Combination%20Sum.swift)|`DFS` `Backtracking`|Swift|
-|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Combination Sum II](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Combination%20Sum%20II.swift)|`DFS` `Backtracking`|Swift|
-|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Generate Parentheses](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Generate%20Parentheses.swift)|`DFS` `Backtracking`|Swift|
-|[Permutations](https://leetcode.com/problems/permutations/)|[Permutations](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Permutations.swift)|`Backtracking`|Swift|
-|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Number of Good Pairs](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Number%20of%20Good%20Pairs.swift)|`Hash Table`|Swift|
-|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Roman to Integer](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Roman%20to%20Integer.swift)|`Hash Table`|Swift|
-|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Group Anagrams](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Group%20Anagrams.swift)|`Hash Table`|Swift|
-|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Count Negative Numbers in a Sorted Matrix](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Binary_Search/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.swift)|`Binary Search`|Swift|
-|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Search Insert Position](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Binary_Search/Search%20Insert%20Position.swift)|`Binary Search`|Swift|
-|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Search in Rotated Sorted Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Binary_Search/Search%20in%20Rotated%20Sorted%20Array.swift)|`Binary Search`|Swift|
-|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Find First and Last Position of Element in Sorted Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Binary_Search/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.swift)|`Binary Search`|Swift|
-|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Spiral Matrix](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Spiral%20Matrix.swift)|`Array`|Swift|
-|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/)|[Best Time to Buy and Sell Stock II](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.swift)|`Array`|Swift|
-|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Find All Numbers Disappeared in an Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.swift)|`Array`|Swift|
-|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Merge Intervals](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Merge%20Intervals.swift)|`Array`|Swift|
-|[Jump Game](https://leetcode.com/problems/jump-game/)|[Jump Game](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Greedy/Jump%20Game.swift)|`Greedy`|Swift|
-|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Container With Most Water](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Greedy/Container%20With%20Most%20Water.swift)| `Two-Pointers` `Greedy`|Swift|
+
+<br>
+
+#### `Two Pointers`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[3sum](https://leetcode.com/problems/3sum/)|[3sum](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Two%20Pointers/3Sum.swift)| `Two-Pointers`|Swift|
 |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Squares of a Sorted Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Two%20Pointers/Squares%20of%20a%20Sorted%20Array.swift)| `Two-Pointers`|Swift|
-|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Palindrome Number](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Math/Palindrome%20Number.swift)|`Math`|Swift|
-|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Excel Sheet Column Number](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Math/Excel%20Sheet%20Column%20Number.swift)|`Math`|Swift|
 
 
 
 
+<br>
 
 
+---
 
-### 2.2 프로그래머스
+## 프로그래머스 <a href="https://programmers.co.kr/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Programmers-black?style=flat&logo=product-Hunt&logoColor=white"/></a>
+
+
+#### `Dynamic Programming`
+
 
 |Problem|Solution|Category|Language|
 |------|---|---|---|
 |[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=swift)|[피보나치 수](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98_%EC%88%98.swift)|`Dynamic Programming`|Swift|
 |[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905?language=swift)|[가장 큰 정사각형 찾기](https://github.com/ChaminLee/Algorithm/tree/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3)|`Dynamic Programming`|Swift|
 |[멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914?language=swift)|[멀리 뛰기](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.swift)|`Dynamic Programming`|Swift|
+
+<br>
+
+#### `Sorting`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746?language=swift)|[가장 큰 수](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8F%E1%85%B3%E1%86%AB_%E1%84%89%E1%85%AE.swift)|`Sorting`|Swift|
 |[파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686?language=swift#)|[파일명 정렬](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%ED%8C%8C%EC%9D%BC%EB%AA%85_%EC%A0%95%EB%A0%AC.swift)|`Sorting`|Swift|
+
+<br>
+
+#### `Stack`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973?language=swift)|[짝지어 제거하기](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%A7%9D%EC%A7%80%EC%96%B4_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.swift)|`Stack`|Swift|
+
+<br>
+
+
+#### `Heap`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[디스크 컨트롤러](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.swift)|`Heap`|Swift|
+|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628?language=swift)|[이중우선순위큐](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.swift)|`Heap`|Swift|
+
+<br>
+
+#### `Recursive`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|[후보키](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%E1%84%92%E1%85%AE%E1%84%87%E1%85%A9%E1%84%8F%E1%85%B5.swift)|`Recursive`|Swift|
+
+<br>
+
+#### `Brute Force`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=swift#)|[카펫](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%B9%B4%ED%8E%AB.swift)|`Brute-Force`|Swift|
 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=swift)|[소수 찾기](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%E1%84%89%E1%85%A9%E1%84%89%E1%85%AE_%E1%84%8E%E1%85%A1%E1%86%BD%E1%84%80%E1%85%B5.swift)|`Brute-Force`|Swift|
 |[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=swift)|[소수 만들기](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%86%8C%EC%88%98_%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)|`Brute-Force`|Swift|
+
+<br>
+
+#### `Greedy`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=swift)|[체육복](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%B2%B4%EC%9C%A1%EB%B3%B5.swift)|`Greedy`|Swift|
 |[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883?language=swift#)|[큰 수 만들기](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%ED%81%B0_%EC%88%98_%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)|`Greedy`|Swift|
+
+<br>
+
+#### `DFS` `BFS` `BackTracking`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189?language=swift)|[가장 먼 노드](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.swift)|`BFS`|Swift|
 |[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=swift)|[타겟 넘버](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%ED%83%80%EA%B2%9F_%EB%84%98%EB%B2%84.swift)|`DFS`|Swift|
 |[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=swift#)|[네트워크](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3.swift)|`DFS`|Swift|
 |[순위](https://programmers.co.kr/learn/courses/30/lessons/49191?language=swift)|[순위](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%88%9C%EC%9C%84.swift)|`DFS`|Swift|
 |[여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[여행 경로](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%97%AC%ED%96%89_%EA%B2%BD%EB%A1%9C.swift)|`DFS`|Swift|
 |[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=swift)|[단어 변환](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EB%8B%A8%EC%96%B4_%EB%B3%80%ED%99%98.swift)|`DFS`|Swift|
+
+<br>
+
+#### `Graph`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|[배달](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EB%B0%B0%EB%8B%AC.swift)|`Graph`|Swift|
 |[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|[합승 택시 요금](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%ED%95%A9%EC%8A%B9_%ED%83%9D%EC%8B%9C_%EC%9A%94%EA%B8%88.swift)|`Graph`|Swift|
 |[섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861?language=swift)|[섬 연결하기](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.swift)|`Graph`|Swift|
+
+<br>
+
+#### `Two Pointers`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258?language=swift)|[보석 쇼핑](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EB%B3%B4%EC%84%9D_%EC%87%BC%ED%95%91.swift)|`Two-Pointers`|Swift|
-|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628?language=swift)|[이중우선순위큐](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.swift)|`Heap`|Swift|
+
+
+
+<br>
+
+
+#### `Binary Search`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=swift)|[순위 검색](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.swift)|`Binary Search`|Swift|
 |[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[입국심사](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.swift)|`Binary Search`|Swift|
+
+<br>
+
+#### `Implement`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411?language=swift#)|[메뉴 리뉴얼](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EB%A9%94%EB%89%B4_%EB%A6%AC%EB%89%B4%EC%96%BC.swift)|`Implement`|Swift|
 |[프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679?language=swift)|[프렌즈4블록](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.swift)|`Implement`|Swift|
 |[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=swift)|[오픈채팅방](https://github.com/ChaminLee/Algorithm/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.swift)|`Implement`|Swift|
