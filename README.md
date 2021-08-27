@@ -71,6 +71,8 @@
 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Combination Sum II](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Combination%20Sum%20II.swift)|`DFS` `Backtracking`|Swift|
 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Generate Parentheses](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Generate%20Parentheses.swift)|`DFS` `Backtracking`|Swift|
 |[Permutations](https://leetcode.com/problems/permutations/)|[Permutations](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Permutations.swift)|`Backtracking`|Swift|
+|[Subsets](https://leetcode.com/problems/subsets/)|[Subsets](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Subsets.swift)|`Backtracking`|Swift|
+
 
 <br>
 
