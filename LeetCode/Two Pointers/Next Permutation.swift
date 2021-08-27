@@ -33,7 +33,7 @@ class Solution {
         nums.swapAt(idx,k)
         // idx 이후 (= idx+1)부터 끝까지는 뒤집어서 재할당
         // 이미 내림차순인 것이 검증되었기 때문에 뒤집어야 제일 작은(오름차순)으로 정렬됨 
-        nums = nums[0...idx] + Array(nums[idx+1..<nums.count].reversed())
+        nums[idx+1..<nums.count].reverse()
         
     }
 }
