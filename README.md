@@ -183,6 +183,7 @@
 |------|---|---|---|
 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Binary Tree Inorder Traversal](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Tree/Binary%20Tree%20Inorder%20Traversal.swift)| `Tree`|Swift|
 |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Merge Two Binary Trees](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Tree/Merge%20Two%20Binary%20Trees.swift)| `Tree`|Swift|
+|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Populating Next Right Pointers in Each Node](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Tree/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.swift)| `Tree`|Swift|
 
 
 
