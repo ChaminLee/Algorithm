@@ -55,6 +55,8 @@
 |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Min Cost Climbing Stairs](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Dynamic_Programming/Min_Cost_Climbing_Stairs.swift)|`Dynamic Programming`|Swift|
 |[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Counting Bits](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Dynamic_Programming/Counting_Bits.swift)|`Dynamic Programming`|Swift|
 |[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Count Square Submatrices with All Ones](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Dynamic_Programming/Count_Square_Submatrices_with_All_Ones.swift)|`Dynamic Programming`|Swift|
+|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Unique Paths](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Dynamic_Programming/Unique%20Paths.swift)|`Dynamic Programming`|Swift|
+
 
 <br>
 
