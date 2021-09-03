@@ -80,6 +80,7 @@
 |[Permutations](https://leetcode.com/problems/permutations/)|[Permutations](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Permutations.swift)|`Backtracking`|Swift|
 |[Subsets](https://leetcode.com/problems/subsets/)|[Subsets](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Subsets.swift)|`Backtracking`|Swift|
 |[Word Search](https://leetcode.com/problems/word-search/)|[Word Search](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Word%20Search.swift)|`Backtracking`|Swift|
+|[Combinations](https://leetcode.com/problems/combinations/)|[Combinations](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Combinations.swift)|`Backtracking`|Swift|
 |[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Rotting Oranges](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/BFS/Rotting%20Oranges.swift)|`BFS`|Swift|
 |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[01 Matrix](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/BFS/01%20Matrix.swift)|`BFS` `DP`|Swift|
 
