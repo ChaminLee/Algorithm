@@ -32,6 +32,8 @@
 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Move Zeroes](https://github.com/ChaminLee/Algorithm/tree/main/LeetCode/Array)|`Array`|Swift|
 |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Sort Colors](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Sort%20Colors.swift)|`Array`|Swift|
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Longest Consecutive Sequence](https://github.com/ChaminLee/Algorithm/tree/main/LeetCode/Array)|`Array`|Swift|
+|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Find the Duplicate Number](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Find%20the%20Duplicate%20Number.swift)|`Array`|Swift|
+
 
 
 <br>
