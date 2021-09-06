@@ -31,6 +31,7 @@
 |[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Rotate Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Rotate%20Array.swift)|`Array`|Swift|
 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Move Zeroes](https://github.com/ChaminLee/Algorithm/tree/main/LeetCode/Array)|`Array`|Swift|
 |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Sort Colors](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Sort%20Colors.swift)|`Array`|Swift|
+|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Longest Consecutive Sequence](https://github.com/ChaminLee/Algorithm/tree/main/LeetCode/Array)|`Array`|Swift|
 
 
 <br>
