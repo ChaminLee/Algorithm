@@ -129,7 +129,7 @@
 |[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Number of Good Pairs](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Number%20of%20Good%20Pairs.swift)|`Hash Table`|Swift|
 |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Roman to Integer](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Roman%20to%20Integer.swift)|`Hash Table`|Swift|
 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Group Anagrams](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Group%20Anagrams.swift)|`Hash Table`|Swift|
-|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Partition Labels](https://github.com/ChaminLee/Algorithm/tree/main/LeetCode/Hash_Table/Partition%Labels.swift)|`Hash Table`|Swift|
+|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Partition Labels](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Partition%20Labels.swift)|`Hash Table`|Swift|
 
 
 <br>
