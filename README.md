@@ -33,7 +33,7 @@
 |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Sort Colors](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Sort%20Colors.swift)|`Array`|Swift|
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Longest Consecutive Sequence](https://github.com/ChaminLee/Algorithm/tree/main/LeetCode/Array)|`Array`|Swift|
 |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Find the Duplicate Number](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Find%20the%20Duplicate%20Number.swift)|`Array`|Swift|
-
+|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Find Minimum in Rotated Sorted Array](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array.swift)|`Array`|Swift|
 
 
 <br>
