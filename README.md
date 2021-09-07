@@ -71,8 +71,6 @@
 |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Pascal's Triangle](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Dynamic_Programming/Pascal's%20Triangle.swift)|`Dynamic Programming`|Swift|
 
 
-
-
 <br>
 
 
@@ -96,9 +94,6 @@
 |[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Letter Case Permutation](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Letter%20Case%20Permutation.swift)|`Backtracking`|Swift|
 |[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Rotting Oranges](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/BFS/Rotting%20Oranges.swift)|`BFS`|Swift|
 |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[01 Matrix](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/BFS/01%20Matrix.swift)|`BFS` `DP`|Swift|
-
-
-
 
 
 <br>
@@ -183,6 +178,17 @@
 |Problem|Solution|Category|Language|
 |------|---|---|---|
 |[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Permutation in String](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Sliding%20Window/Permutation%20in%20String.swift)|`Sliding Window`|Swift|
+
+<br>
+
+#### `Stack`
+
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Daily Temperatures](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Stack/Daily%20Temperatures.swift)|`Stack`|Swift|
+
+
 
 
 
