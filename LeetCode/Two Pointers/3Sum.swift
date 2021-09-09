@@ -44,3 +44,48 @@ class Solution {
         return Array(results)
     }
 }
+
+
+// Soultion for TLE(Time Limit Exceeded (조건 3개 추가)
+class Solution {
+    func threeSum(_ nums: [Int]) -> [[Int]] {
+        if nums.count < 3 { return [] }
+        
+        let nums = nums.sorted { $0 < $1 }
+        var result = Set<[Int]>()
+        
+        
+        for i in 0..<nums.count {
+            // (+) 계속 양수면 0을 만들 수 없음
+            if nums[i] > 0 {
+                break
+            }
+            
+            // (+) 시작점이 이전 값과 같으면 비교하는 의미가 없음 
+            guard i == 0 || nums[i-1] != nums[i] else { 
+                continue
+            }
+            
+            var left = i, mid = left + 1, right = nums.count - 1
+            
+            while mid < right {
+                let element = [nums[left], nums[mid], nums[right]]
+                let sum = element.reduce(0,+)
+
+                if sum == 0 {
+                    result.insert(element)
+                    mid += 1
+                    right -= 1
+                    
+                    // (+) 이전 값과 같다면 한 번 더 이동 (반복)
+                    while mid < right && nums[mid] == nums[mid-1] { mid += 1 }
+                    while mid < right && nums[right] == nums[right+1] { right -= 1 }
+                } else {
+                    sum > 0 ? (right -= 1) : (mid += 1)
+                }
+            }
+        }
+                
+        return Array(result)
+    }
+}
