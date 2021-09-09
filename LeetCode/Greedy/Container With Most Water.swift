@@ -26,3 +26,23 @@ class Solution {
         return res
     }
 }
+
+// solution 2 (9/9)
+class Solution {
+    func maxArea(_ height: [Int]) -> Int {
+        var left = 0, right = height.count - 1
+        var maxSum = 0
+        
+        // 양 끝부터 비교 
+        while left < right {
+            // 너비 구하기
+            let area = (right - left) * min(height[left], height[right])
+            // 기존 값 보다 크다면 갱신
+            maxSum = maxSum < area ? area : maxSum
+            // 높이가 더 작은 쪽을 이동시켜주기
+            height[left] > height[right] ? (right -= 1) : (left += 1)
+        }
+        
+        return maxSum
+    }
+}
