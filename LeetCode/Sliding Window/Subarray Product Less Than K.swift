@@ -7,8 +7,8 @@ class Solution {
             // 곱 계산
             sum *= nums[i]
             
-            // 기준보다 작지 않거나, 시작점이 길이보다 작을 때
-            while sum >= k && start < nums.count {
+            // 기준보다 작지 않거나, 시작점이 현위치보다 작거나 같을 때 
+            while sum >= k && start <= i {
                 sum /= nums[start]
                 start += 1 
             }
