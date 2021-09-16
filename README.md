@@ -98,6 +98,7 @@
 |[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Letter Case Permutation](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Letter%20Case%20Permutation.swift)|`Backtracking`|Swift|
 |[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Rotting Oranges](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/BFS/Rotting%20Oranges.swift)|`BFS`|Swift|
 |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[01 Matrix](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/BFS/01%20Matrix.swift)|`BFS` `DP`|Swift|
+|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Shortest Path in Binary Matrix](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/BFS/Shortest%20Path%20in%20Binary%20Matrix.swift)|`BFS` `DP`|Swift|
 
 
 <br>
