@@ -93,6 +93,7 @@
 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Combination Sum II](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Combination%20Sum%20II.swift)|`DFS` `Backtracking`|Swift|
 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Generate Parentheses](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Generate%20Parentheses.swift)|`DFS` `Backtracking`|Swift|
 |[Permutations](https://leetcode.com/problems/permutations/)|[Permutations](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Permutations.swift)|`Backtracking`|Swift|
+|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Permutations II](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Permutations%20II.swift)|`Backtracking`|Swift|
 |[Subsets](https://leetcode.com/problems/subsets/)|[Subsets](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Subsets.swift)|`Backtracking`|Swift|
 |[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Subsets II](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Subsets%20II.swift)|`Backtracking`|Swift|
 |[Word Search](https://leetcode.com/problems/word-search/)|[Word Search](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Backtracking/Word%20Search.swift)|`Backtracking`|Swift|
