@@ -19,3 +19,23 @@ class Solution {
         return answer
     }
 }
+
+
+// 최적화 풀이
+class Solution {
+    func subsets(_ nums: [Int]) -> [[Int]] {
+        var list = [[Int]]()
+            
+        backtracking(0, nums, [], &list)
+        
+        return Array(list)
+    }
+    
+    func backtracking(_ idx: Int, _ nums: [Int], _ path: [Int], _ result: inout [[Int]]) {
+        result.append(path)
+
+        for i in idx..<nums.count {
+            backtracking(i+1, nums, path + [nums[i]], &result)
+        }
+    }
+}
