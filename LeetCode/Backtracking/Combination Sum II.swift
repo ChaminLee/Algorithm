@@ -44,3 +44,41 @@ class Solution {
         return ans
     }
 }
+
+// 최적화 - dict 미사용, 정렬 이후 이전 값과 동일한지 확인, 값이 커지는 경우를 미리 체크
+class Solution {
+    func combinationSum2(_ candidates: [Int], _ target: Int) -> [[Int]] {
+        if candidates.reduce(0,+) < target { return [] }
+        
+        var nums = candidates.sorted()
+        var temp = [Int]()
+        var result = [[Int]]()
+        
+        
+        dfs(0, nums, target, 0, &temp, &result)
+        
+        return result
+    }
+    
+    func dfs(_ idx: Int, _ nums: [Int], _ target: Int, _ sum: Int, _ temp: inout [Int], _ result: inout [[Int]]) {
+        if sum == target {
+            result.append(temp)
+            return 
+        } 
+        
+        for i in idx..<nums.count {
+            if sum + nums[i] > target {
+                return
+            }
+            
+            if i > idx && nums[i] == nums[i-1] { 
+                continue
+            }
+            
+            temp.append(nums[i])
+            dfs(i+1, nums, target, sum + nums[i], &temp, &result)
+            temp.removeLast()
+                               
+        }
+    }
+}
