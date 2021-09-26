@@ -33,3 +33,32 @@ class Solution {
         return ans
     }
 }
+
+
+// 시간 복잡도 개선
+class Solution {
+    func combinationSum(_ candidates: [Int], _ target: Int) -> [[Int]] {
+        // DFS
+        var temp = [Int]()
+        var result = [[Int]]() 
+        
+        dfs(0, candidates, target, 0, &temp, &result)
+                
+        return result
+    }
+    
+    func dfs(_ idx: Int, _ nums: [Int], _ target: Int, _ sum: Int, _ list: inout [Int], _ result: inout [[Int]]) {
+        if sum == target {
+            result.append(list)
+            return
+        } else if sum > target { 
+            return 
+        }
+        
+        for i in idx..<nums.count {
+            list.append(nums[i])
+            dfs(i, nums, target, sum + nums[i], &list, &result)
+            list.removeLast()
+        }
+    }
+}
