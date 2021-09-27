@@ -36,3 +36,30 @@ class Solution {
         return ans
     }
 }
+
+// iteratively
+
+class Solution {
+    func letterCombinations(_ digits: String) -> [String] {
+        guard digits != "" else { return [] }
+        
+        let nums : [Character:[String]] = ["2": ["a","b","c"], "3": ["d","e","f"], "4": ["g","h","i"], "5": ["j","k","l"], "6": ["m","n","o"], "7": ["p","q","r", "s"], "8": ["t","u","v"], "9": ["w","x","y","z"]]
+        
+        var res = [""]
+        
+        for digit in digits {
+            if let words = nums[digit] {
+                let temp = res 
+                res.removeAll()
+                
+                for t in temp {
+                    for word in words {
+                        res.append(t + String(word))
+                    }
+                }
+            }
+        }
+                
+        return res
+    }
+}
