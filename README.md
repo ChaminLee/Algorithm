@@ -145,6 +145,7 @@
 |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Roman to Integer](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Roman%20to%20Integer.swift)|`Hash Table`|Swift|
 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Group Anagrams](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Group%20Anagrams.swift)|`Hash Table`|Swift|
 |[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Partition Labels](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Partition%20Labels.swift)|`Hash Table`|Swift|
+|[Happy Number](https://leetcode.com/problems/happy-number/)|[Happy Number](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Hash_Table/Happy%20Number.swift)|`Hash Table`|Swift|
 
 
 <br>
